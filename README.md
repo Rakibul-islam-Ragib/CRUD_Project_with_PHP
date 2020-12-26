@@ -1,2 +1,2 @@
 # CRUD_Project_with_PHP
-Hey there,
+CRUD = Create, Read, Update, Delete.
